@@ -16,7 +16,7 @@ https://qiita.com/kolbe/items/15fabed19b3599851eb8
 <img width="777" alt="Screen Shot 2021-04-18 at 3 00 04" src="https://user-images.githubusercontent.com/77920313/115122306-2e24d580-9ff2-11eb-9ee8-00a8efc0ebc7.png">
 
 ↓  
-テスト、チューニング
+テスト、チューニング  
 <img width="744" alt="Screen Shot 2021-04-18 at 3 00 34" src="https://user-images.githubusercontent.com/77920313/115122317-40067880-9ff2-11eb-8d75-a92ebb2af89b.png">
 
 
